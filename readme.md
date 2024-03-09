@@ -10,4 +10,22 @@ git clone https://github.com/TarunPara/SVG-logo-maker
 cd svg-logo-maker
 npm install
 
+Usage:
+After installation, you can run the application using the following command:
 
+npm start
+
+Follow the prompts to choose your shape, text, and colors. The generated SVG will be saved in the examples directory.
+
+Running Tests:
+To ensure the integrity of the application, you can run the predefined test suite using:
+
+npm test
+
+Contributing:
+Contributions to SVG Logo Maker are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+
+License:
+SVG Logo Maker is released under the MIT License.
+
+Watch the video tutorial here: https://youtu.be/9kETz5AjvWU
