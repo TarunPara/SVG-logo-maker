@@ -10,6 +10,10 @@ git clone https://github.com/TarunPara/SVG-logo-maker
 cd svg-logo-maker
 npm install
 
+*************************************
+Watch the video tutorial here: https://youtu.be/9kETz5AjvWU
+*************************************
+
 Usage:
 After installation, you can run the application using the following command:
 
