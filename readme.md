@@ -14,6 +14,9 @@ npm install
 
 *************************************
 Watch the video tutorial here: https://youtu.be/9kETz5AjvWU
+
+Note: Although the YouTube channel currently displays the username "Supremelor," you can easily find the channel using the handle @tarunparajuli4993.
+
 *************************************
 
 Usage:
