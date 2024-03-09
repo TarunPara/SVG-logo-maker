@@ -31,6 +31,11 @@ npm test
 Contributing:
 Contributions to SVG Logo Maker are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 ***********************************************************
+Applications
+https://www.npmjs.com/package/jest
+https://www.npmjs.com/package/inquirer/v/8.2.4
+***********************************************************
+
 License:
 SVG Logo Maker is released under the MIT License.
 ***********************************************************
