@@ -1,5 +1,5 @@
 {
-  "name": "your-project-name",
+  "name": "SVG-logo-maker",
   "version": "1.0.0",
   "description": "A Node.js command-line application to generate SVG logos.",
   "scripts": {
@@ -12,11 +12,11 @@
     "command-line",
     "application"
   ],
-  "author": "Your Name",
+  "author": "Tarun Parajuli",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-project"
+    "url": "https://github.com/TarunPara/SVG-logo-maker"
   },
   "dependencies": {
     "inquirer": "^9.2.15",
